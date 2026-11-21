@@ -126,7 +126,7 @@ A seven-page interactive Power BI report was developed using a consistent Light 
 
 ### Customer Satisfaction
 
-![Customer Satisfaction](04_Documentation/Dashboard_Screenshots/PowerBI/06_Customer_Satisfaction.png)
+![Customer Satisfaction](04_Documentation/Dashboard_Screenshots/PowerBI/06_Customer_Satisfication.png)
 
 ### Category Details
 
